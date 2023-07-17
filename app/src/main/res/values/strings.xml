@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name" translatable="false">ThirtyDaysOfFitness</string>
+    <string name="top_app_bar" translatable="false">30 Days Of Fitness</string>
+    <string name="exercise_1" translatable="false">Push-ups</string>
+    <string name="description_1" translatable="false">Begin in a high plank position, place hands firmly on the ground, directly under shoulders. Lower your body until your chest touches the floor. Keep your back flat and eyes focused about three feet in front of you to maintain a neutral neck. Push your body up returning to the starting position.</string>
+    <string name="exercise_2" translatable="false">Squats</string>
+    <string name="description_2" translatable="false">Stand with feet hip-width apart, toes pointing forward. Bend your knees, lowering your hips deeply into a squat and keeping your heels flat on the floor. Push through your heels to return to the starting position.</string>
+    <string name="exercise_3" translatable="false">Plank</string>
+    <string name="description_3" translatable="false">Begin in the push-up position, resting either on your hands or forearms. Keep your body straight from head to heel. Hold this position, making sure to breathe.</string>
+    <string name="exercise_4" translatable="false">Mountain Climbers</string>
+    <string name="description_4" translatable="false">Start in a high plank position. Draw your right knee under your torso, keeping the toes off the ground. Return your right foot to the starting position and repeat with your left leg. Keep switching legs, while maintaining the push-up position.</string>
+    <string name="exercise_5" translatable="false">Bicycle Crunches</string>
+    <string name="description_5" translatable="false">Lay on your back, bring knees into your chest and lift shoulder blades off the ground. Straighten your right leg while turning your upper body to the left, bringing your right elbow toward the left knee. Switch sides, bringing the left elbow toward the right knee.</string>
+    <string name="exercise_6" translatable="false">Jumping Jacks</string>
+    <string name="description_6" translatable="false">Stand upright with legs together, arms at your sides. Bend your knees slightly, then jump into the air. As you jump, spread your legs to be about shoulder-width apart and stretch your arms out and over your head. Jump back to starting position.</string>
+    <string name="exercise_7" translatable="false">Burpees</string>
+    <string name="description_7" translatable="false">From a standing position, drop into a squat, place your hands on the ground and kick your feet back into a push-up position. Perform a push-up, then immediately return your feet to the squat position and leap up as high as possible.</string>
+    <string name="exercise_8" translatable="false">Glute Bridges</string>
+    <string name="description_8" translatable="false">Lay on your back with your hands by your sides, knees bent, and feet flat on the floor under your knees. Lift your hips off the ground until your knees, hips and shoulders form a straight line. Squeeze your glutes hard and keep your abs drawn in so you don’t overextend your back.</string>
+    <string name="exercise_9" translatable="false">Dumbbell Overhead Press</string>
+    <string name="description_9" translatable="false">Stand with your feet hip-width apart, holding a dumbbell in each hand. Bend your elbows and lift your upper arms to shoulder height so the dumbbells are at ear level. Push the weights up until your arms are fully extended above your head and then lower the weights back to ear level.</string>
+    <string name="exercise_10" translatable="false">Lunges</string>
+    <string name="description_10" translatable="false">Stand tall with feet hip-width apart. Take a step forward with right foot and lower your body until right knee is bent at least 90 degrees and the left knee is nearly touching the floor. Push back to the starting position, and repeat with the left leg forward.</string>
+    <string name="exercise_11" translatable="false">Wall Sits</string>
+    <string name="description_11" translatable="false">Stand with your back against a wall, placing your feet about two feet in front of the wall. Bend your knees, sliding your back down the wall until your knees are at 90-degree angles. Hold this position.</string>
+    <string name="exercise_12" translatable="false">High Knees Running in Place</string>
+    <string name="description_12" translatable="false">Stand straight with your feet hip-width apart, looking straight ahead. Start running in place bringing your knees up to your chest as high as possible while pumping your arms.</string>
+    <string name="exercise_13" translatable="false">Deadlift</string>
+    <string name="description_13" translatable="false">Stand with your feet hip-width apart, knees slightly bent, and hold a dumbbell in each hand in front of your legs. Keeping your back straight, bend at your hips and lower the weights to your ankles by extending through your waist. Squeeze your glutes to pull yourself up at a quick pace, returning to the starting position.</string>
+    <string name="exercise_14" translatable="false">Superman</string>
+    <string name="description_14" translatable="false">Lay face down on your stomach with arms and legs extended. Keep your neck in a neutral position. Keeping your arms and legs straight (but not locked), simultaneously lift your arms and legs up toward the ceiling to form an elongated "u" shape with your body.</string>
+    <string name="exercise_15" translatable="false">Russian Twists</string>
+    <string name="description_15" translatable="false">Sit on the ground with your knees bent, pull your abs to your spine, and lean back a few inches while keeping your back straight. Hold your hands in front of you and begin to twist your torso to the right then to the left to complete one rep.</string>
+    <string name="exercise_16" translatable="false">Step-Ups</string>
+    <string name="description_16" translatable="false">Stand in front of a box or a step, left foot planted on the box. Press down to straighten your left leg and lift onto the box, bringing both feet fully onto the box. Return back to the starting position.</string>
+    <string name="exercise_17" translatable="false">Calf Raises</string>
+    <string name="description_17" translatable="false">Stand up straight, then push through the balls of both feet to raise your body upward. Keep your abdominal muscles pulled in so that you move straight upward and don\'t roll your feet inward or outward.</string>
+    <string name="exercise_18" translatable="false">High Plank Leg Lifts</string>
+    <string name="description_18" translatable="false">Start in a high plank position. Keep your core tight and your glutes engaged as you lift your right leg off the ground. Lower your right leg and repeat on the left side.</string>
+    <string name="exercise_19" translatable="false">Jump Squats</string>
+    <string name="description_19" translatable="false">Perform a regular squat, but immediately propel yourself upwards as explosively as you can. When you land, lower your body back into the squat position to complete one rep.</string>
+    <string name="exercise_20" translatable="false">Dumbbell Rows</string>
+    <string name="description_20" translatable="false">Holding a dumbbell in each hand, bend your knees slightly and hinge at the hip so your upper body is almost parallel to the floor. Keep your core tight and your back straight as you row the weights up to your chest.</string>
+    <string name="exercise_21" translatable="false">Reverse Crunches</string>
+    <string name="description_21" translatable="false">Lie flat on your back with your legs extended straight up towards the ceiling and arms by your sides. Contract your abs to curl your hips off the floor and towards your chest, then slowly lower them back to the starting position.</string>
+    <string name="exercise_22" translatable="false">Side Plank</string>
+    <string name="description_22" translatable="false">Start on your side with your feet together and one forearm directly below your shoulder. Contract your core and raise your hips until your body is in a straight line from head to feet. Hold the position without letting your hips drop. Repeat on the other side.</string>
+    <string name="exercise_23" translatable="false">Tuck Jumps</string>
+    <string name="description_23" translatable="false">Stand with knees slightly bent, then jump up as high as possible, bringing knees to chest. Land softly, with knees slightly bent, and immediately jump again.</string>
+    <string name="exercise_24" translatable="false">Tricep Dips</string>
+    <string name="description_24" translatable="false">Sit on the edge of a chair or bench with your hands next to your thighs. Lift your body off the chair and lower your hips toward the floor until your arms are at about 90-degree angles. Press down into the chair to return to the starting position.</string>
+    <string name="exercise_25" translatable="false">Dumbbell Bicep Curls</string>
+    <string name="description_25" translatable="false">Hold a dumbbell in each hand at arms-length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps.</string>
+    <string name="exercise_26" translatable="false">Jump Lunges</string>
+    <string name="description_26" translatable="false">Start by performing a regular lunge. Then, jump up explosively and switch the position of your legs while in mid-air, landing into the lunge position with the opposite leg</string>
+    <string name="exercise_27" translatable="false">Side-Lying Leg Lifts</string>
+    <string name="description_27" translatable="false">Lie on one side with your legs stacked on top of each other and your body in a straight line. Prop your head up with your hand, or rest your head on your arm. Lift the top leg as high as you can without moving your pelvis, then slowly lower it back down. Switch sides and repeat with the other leg.</string>
+    <string name="exercise_28" translatable="false">Bird Dog</string>
+    <string name="description_28" translatable="false">Start on all fours, with your hands directly under your shoulders and your knees directly under your hips. Extend your right arm out in front of you and your left leg behind you. Hold for a few seconds, then return to the starting position. Repeat with your left arm and right leg.</string>
+    <string name="exercise_29" translatable="false">Sumo Squats</string>
+    <string name="description_29" translatable="false">Stand with your feet significantly wider than hip-width apart and your toes turned out to the sides. Keeping your back straight, lower your body by bending your knees until your thighs are parallel with the floor. Use your glutes to return to the standing position.</string>
+    <string name="exercise_30" translatable="false">Inchworms</string>
+    <string name="description_30" translatable="false">Stand up tall with your legs straight. Bend over and touch the floor with your hands. Keeping your legs straight, walk your hands forward. Then take tiny steps to walk your feet back to your hands. That\'s one rep.</string>
+
+
+</resources>
